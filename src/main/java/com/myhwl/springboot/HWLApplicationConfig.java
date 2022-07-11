@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 * @company : Java Learning Center
 * */
 @SpringBootApplication 
-public class JLCApplicationConfig  implements WebMvcConfigurer{
+public class HWLApplicationConfig  implements WebMvcConfigurer{
 	
 	 @Override
 	  public void addResourceHandlers(ResourceHandlerRegistry registry) {
